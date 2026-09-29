@@ -1,0 +1,9 @@
+# Versions reflect the 2021 Google Colab environment the code was written in
+numpy
+pandas
+matplotlib
+scikit-learn
+tqdm
+tensorflow>=2.4
+tensorflow-addons
+scikit-multilearn
