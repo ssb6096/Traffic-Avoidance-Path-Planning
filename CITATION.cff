@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper below."
+title: "Traffic Avoidance Path Planning for AMRs in a Warehouse"
+type: software
+authors:
+  - family-names: "Bhattathiri"
+    given-names: "Sriparvathi Shaji"
+    orcid: "https://orcid.org/0009-0002-1209-7308"
+    affiliation: "Rochester Institute of Technology"
+repository-code: "https://github.com/ssb6096/Traffic-Avoidance-Path-Planning"
+license-url: "https://polyformproject.org/licenses/noncommercial/1.0.0"
+preferred-citation:
+  type: conference-paper
+  title: "A Traffic Avoidance Path Planning Method for Autonomous Vehicles in a Warehouse Environment"
+  authors:
+    - family-names: "Bhattathiri"
+      given-names: "Sriparvathi Shaji"
+      orcid: "https://orcid.org/0009-0002-1209-7308"
+    - family-names: "Li"
+      given-names: "Maojia P."
+    - family-names: "Kuhl"
+      given-names: "Michael E."
+  collection-title: "Proceedings of the 2021 Winter Simulation Conference"
+  conference:
+    name: "2021 Winter Simulation Conference (WSC)"
+  publisher:
+    name: "IEEE"
+  year: 2021
+  doi: "10.1109/WSC52266.2021.9715318"
