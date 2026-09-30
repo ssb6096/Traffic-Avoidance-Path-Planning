@@ -78,3 +78,9 @@ python Rest_of_code.py      # run the traffic-avoidance vs. A* simulation
 Sriparvathi Shaji Bhattathiri, Maojia P. Li and Michael E. Kuhl, Rochester Institute of Technology.
 
 The A\* implementation follows the structure of Sebastian Thrun's A\* examples, as credited in `PathPlanner.py`.
+
+## License
+
+This project is released under the [PolyForm Noncommercial License 1.0.0](LICENSE). You may use, modify and share it for **noncommercial purposes**, including academic research, teaching and personal study. Commercial use needs separate permission from the author.
+
+Required Notice: Copyright (c) 2021 Sriparvathi Shaji Bhattathiri
